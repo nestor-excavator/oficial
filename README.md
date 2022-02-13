@@ -26,3 +26,8 @@ http://tvpremiumhd.club/lista-gratuita/172911/on/live.php?id=streamer1.streamhos
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (ES)" tvg-logo="https://imgur.com/CivEawL.png" group-title="Spanish",DISNEY CHANNEL (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.ts.m3u8
 
+#EXTINF:-1,FOX LIFE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD (ES)" tvg-logo="https://imgur.com/6qrjNfS.png" group-title="Spanish",FOX LIFE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.ts.m3u8

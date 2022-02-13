@@ -26,4 +26,7 @@ http://tvpremiumhd.club/lista-gratuita/172911/on/live.php?id=streamer1.streamhos
 #EXTINF:-1,DISNEY XD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts
 
+#EXTINF:-1,DISNEY CHANNEL (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.ts
+
 

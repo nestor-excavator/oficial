@@ -22,3 +22,8 @@ https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 http://tvpremiumhd.club/lista-gratuita/172911/on/live.php?id=192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvpremiumhd.club/lista-gratuita/172911/on/live.php?id=1.bp.blogspot.com/-O1lvn7ixI3I/VezDtfKka6I/AAAAAAAADGM/KeEL0qq9Ng8/s1600/advenir.JPG" group-title="RELIGION",RELIGION: Red ADVenir (Bolivia)
 http://tvpremiumhd.club/lista-gratuita/172911/on/live.php?id=streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
+#EXTINF:-1,DISNEY XD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts
+
+
